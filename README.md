@@ -5,7 +5,7 @@ The dataset was originally scraped and uploaded to Kaggle. The version of the da
 
 The data dictionary provided with data is as follows:
 
-- ==dateCrawled== - When this ad was first crawled. All field-values are taken from this date.
+- <mark>dateCrawled</mark> - When this ad was first crawled. All field-values are taken from this date.
 - name - Name of the car.
 - seller - Whether the seller is private or a dealer.
 - offerType - The type of listing
